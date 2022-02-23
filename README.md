@@ -1,1 +1,1 @@
-# CHEM507
+# CHEM507_machinelearning
